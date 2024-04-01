@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lab6_mobie2_PH42469",
+    "slug": "lab6_mobie2_PH42469",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
